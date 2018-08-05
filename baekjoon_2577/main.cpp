@@ -6,7 +6,7 @@ unsigned long r;
 
 int main()
 {
-	
+
 	cin >> a >> b >> c;
 	r = a * b * c;
 	while (r != 0) {
